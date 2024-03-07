@@ -35,7 +35,7 @@ const EmblaCarousel = () => {
           </Link>
           <Link to="https://drive.google.com/file/d/1jgaY4EI4fkQbqMAvluJoM_py2OzGQkFC/view">
             <div className="embla__slide">
-              <img src="src/assets/portadas/Instagram post - 6.png" alt="" />
+              <img src="/src/assets/portadas/Instagram post - 6.png" alt="" />
             </div>
           </Link>
         </div>
