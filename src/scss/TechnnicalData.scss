@@ -1,0 +1,59 @@
+.technnical-data-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    width: 100%;
+    background-image: url("../assets/Charcoal-1-1024x1024.webp");
+    color: white;
+    padding-bottom: 80px;
+    h1{
+        margin-top: 180px;
+        margin-bottom: 25px;
+    }
+    .content-container{
+        height: auto;
+        width: 90%;
+        background-color: white;
+        border-radius: 16px;
+        box-shadow: rgba(0, 0, 0, 0.637) 0px 5px 45px;
+        padding: 25px;
+        .section{
+            padding: 25px;
+            border: 1px solid rgb(235, 235, 235);
+            border-radius: 16px;
+            color: black;
+            margin: 20px 0;
+            box-shadow: rgba(194, 193, 193, 0.2) 0px 2px 8px 0px;
+            h3{
+                padding-bottom: 15px;
+                border-bottom: 1px solid rgb(233, 233, 233);
+                margin-bottom: 20px;
+            }
+            .section-img{
+                height: 30px;
+                margin-bottom: 15px;
+            }
+            a{
+                display: list-item;
+                list-style: none;
+                color: black;
+                text-decoration: none;
+                margin: 10px 0;
+            }
+        }
+    }
+}
+
+
+//MEDIA QUERIES
+
+@media(max-width: 940px){
+    .technnical-data-container{
+        text-align: center;
+        h1{
+            font-size: 25px;
+        }
+    }
+}

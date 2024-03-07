@@ -1,0 +1,18 @@
+//GENERAL STYLES
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: montserrat;
+
+}
+body{
+  height: 100vh;
+  width: 100%;
+  overflow-x: hidden;
+}
+::selection{
+  background-color: #000000;
+  color: white;
+}

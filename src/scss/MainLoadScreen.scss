@@ -1,0 +1,32 @@
+.main-load-container{
+    position: fixed;
+    height: 100vh;
+    width: 100%;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #1a1a1a;
+    z-index: 10;
+    .load-logo{
+        height: 180px;
+    }
+    .load-spinner{
+        height: 40px;
+    }
+}
+
+// LOAD
+.loader{
+    height: 80vh;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1a1a1a;
+    .load-spinner{
+        height: 80px;
+    }
+}

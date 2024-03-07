@@ -1,0 +1,41 @@
+
+.main-carousel-container{
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.MySwiper {
+  width: 100%;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.swiper-slide {
+  background-position: center;
+  background-size: cover;
+  width: 300px;
+  height: 300px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.swiper-slide img {
+  display: block;
+  width: 350px;
+  height: 350px;
+  border-radius: 16px;
+}
+.swiper-slide a{
+  text-decoration: none;
+}
+.swiper-slide span{
+  text-decoration: none;
+  color: white;
+  background-color: black;
+  font-weight: 500;
+  font-size: 25px;
+  padding: 10px 25px;
+  border-radius: 16px;
+}
