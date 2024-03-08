@@ -25,37 +25,37 @@ const EmblaCarousel = () => {
         <div className="embla__container">
           <Link to="/photo-bank/deco-54">
             <div className="embla__slide">
-              <img src="/public/DECO54.png" alt="" />
+              <img src="/DECO54.png" alt="" />
             </div>
           </Link>
           <Link to="/public/photo-bank/decotile">
             <div className="embla__slide">
-              <img src="/public/DECOTILE-1.png" alt="" />
+              <img src="/DECOTILE-1.png" alt="" />
             </div>
           </Link>
           <Link to="/photo-bank/hydrowood">
             <div className="embla__slide">
-              <img src="/public/HYDROWOOD-1.png" alt="" />
+              <img src="/HYDROWOOD-1.png" alt="" />
             </div>
           </Link>
           <Link to="/photo-bank/keys">
             <div className="embla__slide">
-              <img src="/public/KEYS.png" alt="" />
+              <img src="/KEYS.png" alt="" />
             </div>
           </Link>
           <Link to="/photo-bank/project">
             <div className="embla__slide">
-              <img src="/public/PROJECT.png" alt="" />
+              <img src="/PROJECT.png" alt="" />
             </div>
           </Link>
           <Link to="/photo-bank/quick48">
             <div className="embla__slide">
-              <img src="/public/QUICK48-1.png" alt="" />
+              <img src="/QUICK48-1.png" alt="" />
             </div>
           </Link>
           <Link to="/photo-bank/spirit-xl">
             <div className="embla__slide">
-              <img src="/public/SPIRIT-XL-jpg.webp" alt="" />
+              <img src="/SPIRIT-XL-jpg.webp" alt="" />
             </div>
           </Link>
         </div>
