@@ -25,37 +25,37 @@ const EmblaCarousel = () => {
         <div className="embla__container">
           <Link to="https://drive.google.com/file/d/1Zg3B41bWC-aOdpWwOCzXUDtZMs2jGWwS/view?usp=drive_link">
             <div className="embla__slide">
-              <img src="/src/assets/DECO54.png" alt="" />
+              <img src="/DECO54.png" alt="" />
             </div>
           </Link>
           <Link to="https://drive.google.com/file/d/1RiI2TrMyZirytkQK4H9ZqwNKvLI-B0gj/view?usp=drive_link">
             <div className="embla__slide">
-              <img src="/src/assets/DECOTILE-1.png" alt="" />
+              <img src="/DECOTILE-1.png" alt="" />
             </div>
           </Link>
           <Link to="https://cpffloors.com/wp-content/uploads/2023/09/Diptico-New-Sell-Sheet-HYDROWOOD-WEB-1.pdf">
             <div className="embla__slide">
-              <img src="/src/assets/HYDROWOOD-1.png" alt="" />
+              <img src="/HYDROWOOD-1.png" alt="" />
             </div>
           </Link>
           <Link to="https://drive.google.com/file/d/1e1NYj0PrUHeHcffhF5fmlHf1j-HEbxwm/view?usp=drive_link">
             <div className="embla__slide">
-              <img src="/src/assets/KEYS.png" alt="" />
+              <img src="/KEYS.png" alt="" />
             </div>
           </Link>
           <Link to="https://drive.google.com/file/d/1n_N3retw9PhmrNFuHBYYTC2JE7z-wwG4/view?usp=drive_link">
             <div className="embla__slide">
-              <img src="/src/assets/PROJECT.png" alt="" />
+              <img src="/PROJECT.png" alt="" />
             </div>
           </Link>
           <Link to="https://drive.google.com/file/d/12Ckn0IgW74tlFcYzbGbwYlqMNbg1dyui/view?usp=drive_link">
             <div className="embla__slide">
-              <img src="/src/assets/QUICK48-1.png" alt="" />
+              <img src="/QUICK48-1.png" alt="" />
             </div>
           </Link>
           <Link to="https://drive.google.com/file/d/1RlDNlhI2v3OzBmoBrVWV3B2EqJ6ywsjI/view?usp=drive_link">
             <div className="embla__slide">
-              <img src="/src/assets/SPIRIT-XL-jpg.webp" alt="" />
+              <img src="/SPIRIT-XL-jpg.webp" alt="" />
             </div>
           </Link>
         </div>

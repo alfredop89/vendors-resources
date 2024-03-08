@@ -12,7 +12,7 @@ function Header() {
     <>
       <header>
         <Link to="/">
-          <img src="/src/public/cpf-floors-cuadrado-logo-02-01.png" alt="" />
+          <img src="/cpf-floors-cuadrado-logo-02-01.png" alt="" />
         </Link>
 
         <motion.div
