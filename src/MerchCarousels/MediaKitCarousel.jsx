@@ -25,17 +25,17 @@ const EmblaCarousel = () => {
         <div className="embla__container">
           <Link to="https://drive.google.com/file/d/1UYRvhl-LU4WsgQnhcpNasNba-iskbAQ5/view">
             <div className="embla__slide">
-              <img src="src/assets/portadas/Instagram post - 5.png" alt="" />
+              <img src="/src/public/Instagram post - 5.png" alt="" />
             </div>
           </Link>
           <Link to="https://www.canva.com/design/DAF5Tr91stI/-edsY29hx8SCoO-p2Llptg/view?utm_content=DAF5Tr91stI&utm_campaign=designshare&utm_medium=link&utm_source=editor">
             <div className="embla__slide">
-              <img src="src/assets/portadas/Instagram post - 1.png" alt="" />
+              <img src="/src/public/Instagram post - 1.png" alt="" />
             </div>
           </Link>
           <Link to="https://drive.google.com/file/d/1jgaY4EI4fkQbqMAvluJoM_py2OzGQkFC/view">
             <div className="embla__slide">
-              <img src="/src/assets/portadas/Instagram post - 6.png" alt="" />
+              <img src="/src/public/Instagram post - 6.png" alt="" />
             </div>
           </Link>
         </div>
