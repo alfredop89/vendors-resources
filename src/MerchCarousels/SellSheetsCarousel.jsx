@@ -45,17 +45,17 @@ const EmblaCarousel = () => {
           </Link>
           <Link to="https://drive.google.com/file/d/1n_N3retw9PhmrNFuHBYYTC2JE7z-wwG4/view?usp=drive_link">
             <div className="embla__slide">
-              <img src="/PROJECT.png" alt="" />
+              <img src="/assets/PROJECT.png" alt="" />
             </div>
           </Link>
           <Link to="https://drive.google.com/file/d/12Ckn0IgW74tlFcYzbGbwYlqMNbg1dyui/view?usp=drive_link">
             <div className="embla__slide">
-              <img src="/QUICK48-1.png" alt="" />
+              <img src="/assets/QUICK48-1.png" alt="" />
             </div>
           </Link>
           <Link to="https://drive.google.com/file/d/1RlDNlhI2v3OzBmoBrVWV3B2EqJ6ywsjI/view?usp=drive_link">
             <div className="embla__slide">
-              <img src="/SPIRIT-XL-jpg.webp" alt="" />
+              <img src="/assets/SPIRIT-XL-jpg.webp" alt="" />
             </div>
           </Link>
         </div>

@@ -30,32 +30,32 @@ const EmblaCarousel = () => {
           </Link>
           <Link to="/public/photo-bank/decotile">
             <div className="embla__slide">
-              <img src="/DECOTILE-1.png" alt="" />
+              <img src="/assets/DECOTILE-1.png" alt="" />
             </div>
           </Link>
           <Link to="/photo-bank/hydrowood">
             <div className="embla__slide">
-              <img src="/HYDROWOOD-1.png" alt="" />
+              <img src="/assets/HYDROWOOD-1.png" alt="" />
             </div>
           </Link>
           <Link to="/photo-bank/keys">
             <div className="embla__slide">
-              <img src="/KEYS.png" alt="" />
+              <img src="/assets/KEYS.png" alt="" />
             </div>
           </Link>
           <Link to="/photo-bank/project">
             <div className="embla__slide">
-              <img src="/PROJECT.png" alt="" />
+              <img src="/assets/PROJECT.png" alt="" />
             </div>
           </Link>
           <Link to="/photo-bank/quick48">
             <div className="embla__slide">
-              <img src="/QUICK48-1.png" alt="" />
+              <img src="/assets/QUICK48-1.png" alt="" />
             </div>
           </Link>
           <Link to="/photo-bank/spirit-xl">
             <div className="embla__slide">
-              <img src="/SPIRIT-XL-jpg.webp" alt="" />
+              <img src="/assets/SPIRIT-XL-jpg.webp" alt="" />
             </div>
           </Link>
         </div>
