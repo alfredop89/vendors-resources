@@ -21,7 +21,7 @@ function App() {
   return (
     <BrowserRouter>
     <Routes>
-      <Route path='/' element={<Layout />}></Route>
+      <Route index path='/vendors-resources' element={<Layout />}></Route>
       <Route path='/technnical-data' element={<TechnnicalData />}/>
       <Route path='/photo-bank' element={<PhotoBank />}/>
       <Route path='/merch' element={<Merch />}/>

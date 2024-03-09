@@ -45,7 +45,7 @@ const RoomSceneDeco54 = () => {
             
             <div className="embla__slide">
               <img
-                src="/assets/Light-Deco-Room-scene-1-1200x1200-1.webp"
+                src="/vendors-resources/assets/Light-Deco-Room-scene-1-1200x1200-1.webp"
                 alt=""
                 onClick={() => SetOpenModal(!openModal)}
               />
@@ -53,7 +53,7 @@ const RoomSceneDeco54 = () => {
 
             <div className="embla__slide">
               <img
-                src="/assets/Metal-gray-room-scene-1200x1200-1.webp"
+                src="/vendors-resources/assets/Metal-gray-room-scene-1200x1200-1.webp"
                 alt=""
                 onClick={() => SetOpenModal(!openModal)}
               />
@@ -61,7 +61,7 @@ const RoomSceneDeco54 = () => {
 
             <div className="embla__slide">
               <img
-                src="/assets/Mimo-oak-room-scene-1200x1200-1.webp"
+                src="/vendors-resources/assets/Mimo-oak-room-scene-1200x1200-1.webp"
                 alt=""
                 onClick={() => SetOpenModal(!openModal)}
               />
@@ -69,7 +69,7 @@ const RoomSceneDeco54 = () => {
 
             <div className="embla__slide">
               <img
-                src="/assets/Natural-deco-room-scene-1200x1200-1.webp"
+                src="/vendors-resources/assets/Natural-deco-room-scene-1200x1200-1.webp"
                 alt=""
                 onClick={() => SetOpenModal(!openModal)}
               />
@@ -77,7 +77,7 @@ const RoomSceneDeco54 = () => {
 
             <div className="embla__slide">
               <img
-                src="/assets/Room-Scene-1200x1200-1.webp"
+                src="/vendors-resources/assets/Room-Scene-1200x1200-1.webp"
                 alt=""
                 onClick={() => SetOpenModal(!openModal)}
               />
@@ -85,7 +85,7 @@ const RoomSceneDeco54 = () => {
 
             <div className="embla__slide">
               <img
-                src="/assets/Sak-White-room-scene-1200x1200-1.webp"
+                src="/vendors-resources/assets/Sak-White-room-scene-1200x1200-1.webp"
                 alt=""
                 onClick={() => SetOpenModal(!openModal)}
               />
@@ -134,22 +134,22 @@ const RoomSceneDeco54 = () => {
                 className="mySwiper"
               >
                 <SwiperSlide>
-                  <img src="/assets/Light-Deco-Room-scene-1-1200x1200-1.webp" />
+                  <img src="/vendors-resources/assets/Light-Deco-Room-scene-1-1200x1200-1.webp" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img src="/assets/Metal-gray-room-scene-1200x1200-1.webp" />
+                  <img src="/vendors-resources/assets/Metal-gray-room-scene-1200x1200-1.webp" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img src="/assets/Mimo-oak-room-scene-1200x1200-1.webp" />
+                  <img src="/vendors-resources/assets/Mimo-oak-room-scene-1200x1200-1.webp" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img src="/assets/Natural-deco-room-scene-1200x1200-1.webp" />
+                  <img src="/vendors-resources/assets/Natural-deco-room-scene-1200x1200-1.webp" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img src="/assets/Room-Scene-1200x1200-1.webp" />
+                  <img src="/vendors-resources/assets/Room-Scene-1200x1200-1.webp" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img src="/assets/Sak-White-room-scene-1200x1200-1.webp" />
+                  <img src="/vendors-resources/assets/Sak-White-room-scene-1200x1200-1.webp" />
                 </SwiperSlide>
               </Swiper>
             </motion.div>

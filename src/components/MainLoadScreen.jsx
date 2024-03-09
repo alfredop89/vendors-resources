@@ -4,8 +4,8 @@ import "../scss/MainLoadScreen.scss"
 function MainLoadScreen() {
   return (
     <div className="main-load-container">
-        <img className='load-logo' src="/assets/Logo-tiendas.png" alt="" />
-        <img className='load-spinner' src="/assets/load-37_256.gif" alt="" />
+        <img className='load-logo' src="/vendors-resources/assets/Logo-tiendas.png" alt="" />
+        <img className='load-spinner' src="/vendors-resources/assets/load-37_256.gif" alt="" />
     </div>
   )
 }
